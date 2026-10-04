@@ -1,0 +1,47 @@
+.:
+total 24
+drwxrwxr-x  6 mleen mleen 4096 Oct  1 04:52 .
+drwx------ 20 mleen mleen 4096 Oct  1 04:03 ..
+drwxrwxr-x  2 mleen mleen 4096 Sep 30 16:35 archives
+drwxrwxr-x  2 mleen mleen 4096 Oct  1 04:52 ex00
+drwxrwxr-x  3 mleen mleen 4096 Sep 30 17:00 projects
+drwxrwxr-x  2 mleen mleen 4096 Sep 30 16:35 tools
+
+./archives:
+total 8
+drwxrwxr-x 2 mleen mleen 4096 Sep 30 16:35 .
+drwxrwxr-x 6 mleen mleen 4096 Oct  1 04:52 ..
+
+./ex00:
+total 8
+drwxrwxr-x 2 mleen mleen 4096 Oct  1 04:52 .
+drwxrwxr-x 6 mleen mleen 4096 Oct  1 04:52 ..
+-rw-rw-r-- 1 mleen mleen    0 Oct  1 04:52 tree_structure.txt
+
+./projects:
+total 12
+drwxrwxr-x 3 mleen mleen 4096 Sep 30 17:00 .
+drwxrwxr-x 6 mleen mleen 4096 Oct  1 04:52 ..
+drwxrwxr-x 4 mleen mleen 4096 Sep 30 17:00 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 mleen mleen 4096 Sep 30 17:00 .
+drwxrwxr-x 3 mleen mleen 4096 Sep 30 17:00 ..
+drwxrwxr-x 2 mleen mleen 4096 Sep 30 17:00 backend
+drwxrwxr-x 2 mleen mleen 4096 Sep 30 17:00 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 mleen mleen 4096 Sep 30 17:00 .
+drwxrwxr-x 4 mleen mleen 4096 Sep 30 17:00 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 mleen mleen 4096 Sep 30 17:00 .
+drwxrwxr-x 4 mleen mleen 4096 Sep 30 17:00 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 mleen mleen 4096 Sep 30 16:35 .
+drwxrwxr-x 6 mleen mleen 4096 Oct  1 04:52 ..
